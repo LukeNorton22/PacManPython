@@ -67,7 +67,3 @@ This is a reimagined version of the classic Pac-Man game, featuring a maze, powe
 
 ---
 
-## Installation and Setup
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/pacman-with-maze.git
